@@ -1,5 +1,4 @@
 # Tendenciasmoda
-questionario tendencias moda? https://claude.ai/public/artifacts/3adc1b2c-d887-4307-b643-c3c0d018949c
 # Diagnóstico Estratégico de Marca de Moda
 ## Descrição Técnica do Aplicativo
 
