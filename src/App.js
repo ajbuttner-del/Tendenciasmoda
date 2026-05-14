@@ -1,3 +1,6 @@
+import { inject } from '@vercel/analytics';
+inject();
+
 import { useState } from "react";
 
 // ─── Google Sheets endpoint ───────────────────────────────────────────────────
